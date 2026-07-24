@@ -67,7 +67,7 @@ All of these requirements are mandatory.
 
 ### Deliverables
 ![Wi-Fi Heatmap.jpg](https://github.com/KittyKatCoding/Lesson4/blob/main/Wi-Fi%20Heatmap.jpg)
-##### ` Figure Wi-Fi Heatmap.jpg`
+#### ` Figure Wi-Fi Heatmap.jpg`
 
 In the figure titled Wi-Fi Heatmap.jpg, there is a map of what the current Wi-Fi Setup is and the current signal strength, and below it is the map of what new access points we want and the signal strength we want. We want there to be at least a 100 Mbps Wi-Fi upload and download link speed anywhere in the school. We need 16 access points, one in every room and two in the auditorium. All access points are to be installed on the ceiling, and are connected to the server room next to the principal's office. We want the Wi-Fi to be stable and fast enough to do coursework in Google Classroom, including stable YouTube video streaming for watching educational videos.
 
